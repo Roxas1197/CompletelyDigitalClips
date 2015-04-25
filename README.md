@@ -1,5 +1,5 @@
 # Completely Digital Clips
-A bad clone of YouTube in PHP for learning to hack.  This application is load balanced between one or more PHP applications relying on a single MySQL database.
+A good clone of YouTube in PHP for real life.  This application is load balanced between one or more PHP applications relying on a single MySQL database.
 
 This is an intentionally insecure web app!  It goes without saying that this should never be used in any sort of production environment.
 
